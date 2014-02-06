@@ -1,6 +1,7 @@
 #pragma once
 
 #include <jd/base/build.h>
+#include <jd/base/lang.h>
 
 EXTERN_C_BEGIN
 

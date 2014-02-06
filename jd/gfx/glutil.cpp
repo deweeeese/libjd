@@ -1,3 +1,4 @@
+#include <qopengl.h>
 #include <jd/gfx/glutil.h>
 
 const char * GetGLErrorString(GLenum err)

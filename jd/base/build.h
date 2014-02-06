@@ -29,5 +29,3 @@
 #else
 #define DEPLOY_TO_CUSTOMER 0
 #endif
-
-#endif
