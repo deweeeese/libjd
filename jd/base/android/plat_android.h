@@ -11,7 +11,7 @@
 #include <limits.h>
 //#include <asm/signal.h>
 #include <sys/types.h>
-#include "AndroidUtils.h"
+//#include "AndroidUtils.h"
 
 // logging
 
